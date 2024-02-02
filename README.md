@@ -1,6 +1,6 @@
-🤖🎙️ 𝐄𝐱𝐩𝐥𝐨𝐫𝐢𝐧𝐠 𝐭𝐡𝐞 𝐈𝐧𝐭𝐞𝐫𝐬𝐞𝐜𝐭𝐢𝐨𝐧 𝐨𝐟 𝐀𝐈 𝐚𝐧𝐝 𝐒𝐩𝐞𝐞𝐜𝐡 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲: 𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐢𝐧𝐠 𝐕𝐨𝐢𝐜𝐞𝐆𝐏𝐓
+🤖🎙️ 𝐄𝐱𝐩𝐥𝐨𝐫𝐢𝐧𝐠 𝐭𝐡𝐞 𝐈𝐧𝐭𝐞𝐫𝐬𝐞𝐜𝐭𝐢𝐨𝐧 𝐨𝐟 𝐀𝐈 𝐚𝐧𝐝 𝐒𝐩𝐞𝐞𝐜𝐡 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲: 𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐢𝐧𝐠 𝐕𝐨𝐢𝐜𝐞𝐆𝐏𝐓<br/>
 
-🔗𝐖𝐞𝐛𝐬𝐢𝐭𝐞 𝐋𝐢𝐧𝐤𝐬:
+🔗𝐖𝐞𝐛𝐬𝐢𝐭𝐞 𝐋𝐢𝐧𝐤𝐬:<br/>
 1). Kunal Shah's Delta 4 Theory - https://lnkd.in/eb3eQY3u <br/>
 2). VoiceGPT Demo - https://lnkd.in/euUWF6iw <br/>
 3). Replit Code Link - https://lnkd.in/edGHCa_a <br/>
