@@ -3,7 +3,7 @@
 ![Screenshot (154)](https://github.com/rahulshah100/VoiceGPT/assets/64270418/534ce7fd-7f3e-4c52-95df-e8280d9072bd)
 ![Screenshot (155)](https://github.com/rahulshah100/VoiceGPT/assets/64270418/eb19520a-c583-43ae-b827-5600c50e8660)
 
-<br/><br/>
+<br/>
 <h2>🔗𝐖𝐞𝐛𝐬𝐢𝐭𝐞 𝐋𝐢𝐧𝐤:<br/></h2>
 Replit Code - https://lnkd.in/edGHCa_a <br/><br/>
 
