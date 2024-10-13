@@ -1,8 +1,8 @@
 🤖🎙️ 𝐄𝐱𝐩𝐥𝐨𝐫𝐢𝐧𝐠 𝐭𝐡𝐞 𝐈𝐧𝐭𝐞𝐫𝐬𝐞𝐜𝐭𝐢𝐨𝐧 𝐨𝐟 𝐀𝐈 𝐚𝐧𝐝 𝐒𝐩𝐞𝐞𝐜𝐡 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲: 𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐢𝐧𝐠 𝐕𝐨𝐢𝐜𝐞𝐆𝐏𝐓<br/>
 
 🔗𝐖𝐞𝐛𝐬𝐢𝐭𝐞 𝐋𝐢𝐧𝐤𝐬:<br/>
-1). Kunal Shah's Delta 4 Theory - <a href="https://lnkd.in/eb3eQY3u" target="_blank">https://lnkd.in/eb3eQY3u</a>
-2). Replit Code Link - <a href="https://lnkd.in/edGHCa_" target="_blank">https://lnkd.in/edGHCa_</a>
+1). Kunal Shah's Delta 4 Theory - <a href="https://lnkd.in/eb3eQY3u" target="_blank">https://lnkd.in/eb3eQY3u</a><br/>
+2). Replit Code Link - <a href="https://lnkd.in/edGHCa_" target="_blank">https://lnkd.in/edGHCa_</a><br/>
 
 Being on board with Kunal Shah's delta 4 theory (linked below) - which highlights the irreversible changes technology can bring that society has to inevitably adapt to, I strived this year to explore uprising technologies like blockchain, AI, NFTs, and others, and share my learning openly on this platform.<br/>
 
