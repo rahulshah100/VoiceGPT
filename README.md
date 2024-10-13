@@ -3,11 +3,13 @@
 ![Screenshot (154)](https://github.com/rahulshah100/VoiceGPT/assets/64270418/534ce7fd-7f3e-4c52-95df-e8280d9072bd)
 ![Screenshot (155)](https://github.com/rahulshah100/VoiceGPT/assets/64270418/eb19520a-c583-43ae-b827-5600c50e8660)
 
-🔗𝐖𝐞𝐛𝐬𝐢𝐭𝐞 𝐋𝐢𝐧𝐤𝐬:<br/>
-1). Replit Code Link - https://lnkd.in/edGHCa_a <br/>
+<br/><br/>
+🔗𝐖𝐞𝐛𝐬𝐢𝐭𝐞 𝐋𝐢𝐧𝐤:<br/>
+Replit Code - https://lnkd.in/edGHCa_a <br/>
 
-Steps to run: <br/>
-[c468e5d1-ade2-462a-8138-5c6f4786056b.webm](https://github.com/user-attachments/assets/83ad7ba4-e072-4633-abcf-a08c7f391209)
+Steps to run:
+
+https://github.com/user-attachments/assets/83ad7ba4-e072-4633-abcf-a08c7f391209
 
 <br/><br/>
 Being on board with Kunal Shah's delta 4 theory (https://lnkd.in/eb3eQY3u) - which highlights the irreversible changes technology can bring that society has to adapt to inevitably, I strived this year to explore uprising technologies like blockchain, AI, NFTs, and others, and share my learning openly on this platform.<br/>
