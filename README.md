@@ -1,13 +1,13 @@
-🤖🎙️ 𝐄𝐱𝐩𝐥𝐨𝐫𝐢𝐧𝐠 𝐭𝐡𝐞 𝐈𝐧𝐭𝐞𝐫𝐬𝐞𝐜𝐭𝐢𝐨𝐧 𝐨𝐟 𝐀𝐈 𝐚𝐧𝐝 𝐒𝐩𝐞𝐞𝐜𝐡 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲: 𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐢𝐧𝐠 𝐕𝐨𝐢𝐜𝐞𝐆𝐏𝐓<br/>
+<h1>🤖🎙️ 𝐄𝐱𝐩𝐥𝐨𝐫𝐢𝐧𝐠 𝐭𝐡𝐞 𝐈𝐧𝐭𝐞𝐫𝐬𝐞𝐜𝐭𝐢𝐨𝐧 𝐨𝐟 𝐀𝐈 𝐚𝐧𝐝 𝐒𝐩𝐞𝐞𝐜𝐡 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲: 𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐢𝐧𝐠 𝐕𝐨𝐢𝐜𝐞𝐆𝐏𝐓<br/></h1>h1
 
 ![Screenshot (154)](https://github.com/rahulshah100/VoiceGPT/assets/64270418/534ce7fd-7f3e-4c52-95df-e8280d9072bd)
 ![Screenshot (155)](https://github.com/rahulshah100/VoiceGPT/assets/64270418/eb19520a-c583-43ae-b827-5600c50e8660)
 
 <br/><br/>
-🔗𝐖𝐞𝐛𝐬𝐢𝐭𝐞 𝐋𝐢𝐧𝐤:<br/>
+<h2>🔗𝐖𝐞𝐛𝐬𝐢𝐭𝐞 𝐋𝐢𝐧𝐤:<br/></h2>
 Replit Code - https://lnkd.in/edGHCa_a <br/>
 
-Steps to run:
+<h2>Steps to run:</h2>
 
 https://github.com/user-attachments/assets/83ad7ba4-e072-4633-abcf-a08c7f391209
 
